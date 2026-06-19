@@ -1,7 +1,7 @@
 # MEVER
 This is the pytorch implementation of EACL-2026 paper "[MEVER: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval](/paper/EACL26-MEVER.pdf)", authored by [Delvin Ce Zhang](http://delvincezhang.com/), Suhan Cui, Zhelin Chu, Xianren Zhang, and [Dongwon Lee](https://pike.psu.edu/dongwon/).
 
-MEVER is a multi-modal language model for evidence retrieval, claim verification, and explanation generation. It aims to retrieve relevant evidence to verify a given claim and generate explanation behind model reasoning. In this paper, we further create a mult-modal dataset in the AI domain, named AIChartClaim, which is released in this repository as well.
+MEVER is a multi-modal language model for evidence retrieval, claim verification, and explanation generation. It aims to retrieve relevant evidence to verify a given claim and generate explanation behind model reasoning. In this paper, we further create a multi-modal dataset in the AI domain, named AIChartClaim, which is released in this repository as well.
 
 ![](/paper/model_architecture.jpg)
 
