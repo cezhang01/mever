@@ -39,7 +39,7 @@ MEVER is a multi-modal language model for evidence retrieval, claim verification
 - -rs: random seed
 
 ## Data
-We release ChartCheck and AIChartClaim datasets in `data.zip` file. Please unzip `data.zip` and put the unzipped data into `./data` folder (e.g., `./data/chart_check/***.json`).
+We release ChartCheck and AIChartClaim datasets [here](https://drive.google.com/file/d/1ph6gkL_vsB8eAizk5fdKocQ_Fuo5Ccww/view?usp=sharing). Please unzip `data.zip` and put the unzipped data into `./data` folder (e.g., `./data/chart_check/***.json`).
 
 Each dataset contains `claims.json`, `evidence.json`, and `./images`.
 
